@@ -4,7 +4,7 @@ import * as chai from 'chai'
 const expect = chai.expect
 const exercises = new Day01Exercises()
 
-describe('Day01Exercises', () => {
+describe('Day 01 Exercises', () => {
 
   it('#helloWorld should return the string Hello World', () => {
     expect(exercises.helloWorld()).to.equal('Hello World')
@@ -22,7 +22,7 @@ describe('Day01Exercises', () => {
     expect(exercises.resultOfFour()).to.equal(4)
   })
 
-  it('#resultOfFourtyTwo should return an expression equalling 42', () => {
+  it('#resultOfFortyTwo should return an expression equalling 42', () => {
     expect(exercises.resultofFortyTwo()).to.equal(42)
   })
 
