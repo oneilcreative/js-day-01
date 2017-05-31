@@ -4,7 +4,7 @@ This is a very basic exercise for your first day in JavaScript. Follow the instr
 
 ## Instructions
 
-1. Install Wallaby for your editor [(Wallaby)](https://download.docker.com/mac/stable/Docker.dmg)
+1. Install Wallaby for your editor [(Wallaby)](https://wallabyjs.com/)
 2. Lets store all your day projects in their own folder on your computer
   ```bash
   cd ~/ && mkdir HelioProjects && cd HelioProjects
