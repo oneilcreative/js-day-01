@@ -23,7 +23,7 @@ describe('Day 01 Exercises', () => {
   })
 
   it('#resultOfFortyTwo should return an expression equalling 42', () => {
-    expect(exercises.resultofFortyTwo()).to.equal(42)
+    expect(exercises.resultOfFortyTwo()).to.equal(42)
   })
 
   it('#myFirstName should return a string of your first name', () => {
