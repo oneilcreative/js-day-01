@@ -42,4 +42,8 @@ describe('Day01Exercises', () => {
     expect(exercises.myFirstAndLastName()).to.include.string(' ')
   })
 
+  it('#whatsTheType should return the type of "Great Job!"', () => {
+    expect(exercises.whatsTheType()).to.equal('string')
+  })
+
 })
